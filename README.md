@@ -51,8 +51,8 @@ de procesos de negocio.
 
 ## Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier%20Perez-0A66C2?style=flat&logo=linkedin)]([https://www.linkedin.com/in/javier-perez1/]))
-[![Email](https://img.shields.io/badge/Email-tuemail%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:javierandrespp@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier%20Perez-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/javier-perez1/)
+[![Email](https://img.shields.io/badge/Email-javier131999%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:javier131999@gmail.com)
 
 ---
 
